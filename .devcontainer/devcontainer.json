@@ -1,0 +1,20 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/python
+{
+	"name": "vecsar-dev",
+	"runArgs": ["--name=vecser-dev"],
+
+	"service": "dev",
+	"dockerFile": "dockerfile",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mhutchie.git-graph",
+				"MS-CEINTL.vscode-language-pack-ja",
+				"ms-python.python",
+				"ms-python.vscode-pylance"
+			]
+		}
+	}
+
+}

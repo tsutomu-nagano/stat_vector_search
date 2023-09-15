@@ -21,7 +21,7 @@ docker-compose up -d
 ### 2. browser Access
 http://localhost:7979/docs/
 
-![Alt text](image.png)
+![Alt text](assets/image.png)
 
 ## Usage
 ### 1. Set Parameters  

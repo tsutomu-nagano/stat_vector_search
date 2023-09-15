@@ -8,14 +8,14 @@
 ## Getting Started
 ### 1. docker-compose up !!
 ``` shell
-git clone 
+git clone https://github.com/tsutomu-nagano/stat_vector_search.git
 cd stat_vector_search
 docker-compose up -d
 ```
 
->❗⏰ take a few minutes for First Start Only   
-> - model download
-> - purpose csv to vector
+>❗⏰ 初回の起動のみ次の処理が実行されるため数分時間がかかります   
+> - モデルのダウンロード
+> - CSVファイルの調査計画のデータをベクトルに変換
 
 
 ### 2. browser Access

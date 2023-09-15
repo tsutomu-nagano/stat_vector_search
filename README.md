@@ -25,7 +25,7 @@ http://localhost:7979/docs/
 
 ## Usage
 ### 1. Set Parameters  
- keyword = 工場の数
+keyword = 工場の数
 
 ### 2. Execute !!
   工業統計 is include 👍
